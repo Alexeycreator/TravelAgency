@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\travelagency\\travelagency_webapp\\travelagency_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|solutionrelative:travelagency_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\travelagency\\travelagency_webapp\\travelagency_webapp\\models\\travelagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|solutionrelative:travelagency_webapp\\models\\travelagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\travelagency\\travelagency_webapp\\travelagency_webapp\\models\\booktour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|solutionrelative:travelagency_webapp\\models\\booktour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\travelagency\\travelagency_webapp\\travelagency_webapp\\models\\residence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|solutionrelative:travelagency_webapp\\models\\residence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\travelagency\\travelagency_webapp\\travelagency_webapp\\models\\agencyworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|solutionrelative:travelagency_webapp\\models\\agencyworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\travelagency\\travelagency_webapp\\travelagency_webapp\\models\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|solutionrelative:travelagency_webapp\\models\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\travelagency\\travelagency_webapp\\travelagency_webapp\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|solutionrelative:travelagency_webapp\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\travelagency\\travelagency_webapp\\travelagency_webapp\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|solutionrelative:travelagency_webapp\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\travelagency\\travelagency_webapp\\travelagency_webapp\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|solutionrelative:travelagency_webapp\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\travelagency\\travelagency_webapp\\travelagency_webapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B4EA07-37EC-4516-B807-7B767C39621A}|TravelAgency_WebApp\\TravelAgency_WebApp.csproj|solutionrelative:travelagency_webapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "TravelAgency_WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Program.cs",
+              "RelativeToolTip": "TravelAgency_WebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:29:56.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TravelAgencyContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\TravelAgencyContext.cs",
+              "RelativeDocumentMoniker": "TravelAgency_WebApp\\Models\\TravelAgencyContext.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\TravelAgencyContext.cs",
+              "RelativeToolTip": "TravelAgency_WebApp\\Models\\TravelAgencyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:14:19.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Residence.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\Residence.cs",
+              "RelativeDocumentMoniker": "TravelAgency_WebApp\\Models\\Residence.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\Residence.cs",
+              "RelativeToolTip": "TravelAgency_WebApp\\Models\\Residence.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:11:35.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookTour.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\BookTour.cs",
+              "RelativeDocumentMoniker": "TravelAgency_WebApp\\Models\\BookTour.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\BookTour.cs",
+              "RelativeToolTip": "TravelAgency_WebApp\\Models\\BookTour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:09:27.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgencyWorker.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\AgencyWorker.cs",
+              "RelativeDocumentMoniker": "TravelAgency_WebApp\\Models\\AgencyWorker.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\AgencyWorker.cs",
+              "RelativeToolTip": "TravelAgency_WebApp\\Models\\AgencyWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:08:38.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Number.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\Number.cs",
+              "RelativeDocumentMoniker": "TravelAgency_WebApp\\Models\\Number.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\Number.cs",
+              "RelativeToolTip": "TravelAgency_WebApp\\Models\\Number.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:07:26.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "TravelAgency_WebApp\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\Hotel.cs",
+              "RelativeToolTip": "TravelAgency_WebApp\\Models\\Hotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:06:05.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\City.cs",
+              "RelativeDocumentMoniker": "TravelAgency_WebApp\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\City.cs",
+              "RelativeToolTip": "TravelAgency_WebApp\\Models\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:04:54.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "TravelAgency_WebApp\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\Country.cs",
+              "RelativeToolTip": "TravelAgency_WebApp\\Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:03:48.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "TravelAgency_WebApp\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\TravelAgency\\TravelAgency_WebApp\\TravelAgency_WebApp\\Models\\Client.cs",
+              "RelativeToolTip": "TravelAgency_WebApp\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:00:25.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
