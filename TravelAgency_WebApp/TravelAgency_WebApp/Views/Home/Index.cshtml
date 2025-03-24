@@ -1,8 +1,24 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model IEnumerable<TravelAgency_WebApp.Models.Country>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div>
+  <h2>Города туров</h2>
+  <div>
+    <table border="1">
+      <thead>
+        <tr>
+          <th>Название города</th>
+          <th>Основной язык</th>
+        </tr>
+      </thead>
+      <tbody>
+        @foreach (var country in Model)
+        {
+          <tr>
+            <td>@country.Name_country</td>
+            <td>@country.Main_Language</td>
+          </tr>
+        }
+      </tbody>
+    </table>
+  </div>
 </div>

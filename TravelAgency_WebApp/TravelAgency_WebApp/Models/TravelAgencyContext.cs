@@ -2,16 +2,26 @@
 
 namespace TravelAgency_WebApp.Models
 {
-	sealed public class TravelAgencyContext : DbContext
-	{
-		public DbSet<Client> Clients { get; set; }
-		public TravelAgencyContext()
-		{
-			Database.EnsureCreated();
-		}
-		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-		{
-			optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=TravelAgency_CourseWork;Username=postgres;Password=root");
-		}
-	}
+  public sealed class TravelAgencyContext : DbContext
+  {
+    public TravelAgencyContext(DbContextOptions<TravelAgencyContext> options)
+        : base(options)
+    {
+    }
+
+    public DbSet<Client> Clients { get; set; }
+    public DbSet<AgencyWorker> AgencyWorkers { get; set; }
+    public DbSet<BookTour> BookTours { get; set; }
+    public DbSet<City> Cities { get; set; }
+    public DbSet<Country> Countries { get; set; }
+    public DbSet<Hotel> Hotels { get; set; }
+    public DbSet<Number> Numbers { get; set; }
+    public DbSet<Residence> Residences { get; set; }
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+      modelBuilder.Entity<Residence>().HasKey(r => new { r.BookTour_Id, r.Number_Id });
+      base.OnModelCreating(modelBuilder);
+    }
+  }
 }
